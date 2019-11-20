@@ -32,7 +32,7 @@ const MyName = ({ name }) => {
 
 // defaultProps 설정
 MyName.defaultProps = {
-  name: '기본이름'
+  name: 'defaultProps'
 };
 
 

@@ -18,7 +18,7 @@ class MyName extends Component {
 
 // defaultProps 설정 (2)
 MyName.defaultProps = {
-  name: '기본이름'
+  name: 'defaultProps'
 };
 
 export default MyName;
